@@ -15,7 +15,7 @@ Alguns requisitos:
   - Crie um fork desse repositório, e ao finalizar abra um pull request para o repositório raiz.
 - A aplicação deve armazenar as informações encontradas;
 - Utilizar PostgreSQL ou MySQL;
-- O deploy deve ser realizado, preferencialmente, no Heroku ou AWS;
+- O deploy deve ser realizado em alguma cloud, como: heroku, aws, azure, google cloud, etc;
 - A aplicação precisa ter testes automatizados;
 - Preferenciamente dockerizar a aplicação;
 - Por favor atualizar o readme da aplicação com passo a passo com instrução para subir o ambiente.
