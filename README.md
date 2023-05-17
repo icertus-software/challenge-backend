@@ -12,7 +12,7 @@ Alguns requisitos:
 
 - Deve ser uma aplicação totalmente nova;
 - A solução deve estar em um repositório público do GitHub;
-- - Crie um fork desse repositório, e ao finalizar abra um pull request para o repositório raiz.
+  - Crie um fork desse repositório, e ao finalizar abra um pull request para o repositório raiz.
 - A aplicação deve armazenar as informações encontradas;
 - Utilizar PostgreSQL ou MySQL;
 - O deploy deve ser realizado, preferencialmente, no Heroku ou AWS;
